@@ -1,0 +1,9 @@
+{
+    "name": "gabriel/agparking-api",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
